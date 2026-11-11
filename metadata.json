@@ -1,0 +1,6 @@
+{
+  "name": "AOGIM Dublin",
+  "description": "Official mobile-first web app for Assembly of God Ireland Ministry (AOGIM Dublin). Consult events, service times, announcements, and institutional information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

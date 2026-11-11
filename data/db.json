@@ -1,0 +1,1385 @@
+{
+  "users": [
+    {
+      "id": "usr_admin",
+      "fullName": "Pastor & Admin AOGIM",
+      "email": "admin@aogimdublin.org",
+      "countryOfOrigin": "Ireland",
+      "profilePhoto": null,
+      "role": "SUPER_ADMIN",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-10-01T08:00:00Z",
+      "salt": "404542b601cdfdfab6dc225149280b66",
+      "passwordHash": "c9f18b30f335164f14c31710b8bbec6f7db16dc9571afd4b38b793e2939c7e0a"
+    },
+    {
+      "id": "usr_member1",
+      "fullName": "Lucas Silva",
+      "email": "lucas.silva@example.com",
+      "countryOfOrigin": "Brazil",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-10-15T10:00:00Z",
+      "salt": "0b71c46b2a91bf28e72cb8d24e62f52c",
+      "passwordHash": "45a2d2e922a8fc19ac7b5d8e886f085a1b1f930387d7d48dcab91d6d9a584ba2"
+    },
+    {
+      "id": "usr_98b65a9d8537",
+      "fullName": "Maria Costa",
+      "email": "maria.costa@example.com",
+      "countryOfOrigin": "Brazil",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-11-10T11:00:21.166Z",
+      "salt": "c4e1467802c0104623797468a0c008a3",
+      "passwordHash": "134dcc7ab916050df71ef64583f3783f0d5848fe5772dec864299ea2fea49a01"
+    },
+    {
+      "id": "usr_0434694df033",
+      "fullName": "Gate Checkin Tester",
+      "email": "checkin.tester.1794389312705@example.com",
+      "countryOfOrigin": "Ireland",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-11-11T09:28:32.707Z",
+      "salt": "93dba1d175f38e4d57a58c3f7d6a9219",
+      "passwordHash": "b82ff181c8d6309d045e2c4ba497ce710d85de24ee374595d2d8f62676d49fec"
+    },
+    {
+      "id": "usr_b9adc6b8ac5d",
+      "fullName": "Tester",
+      "email": "test.1794389324004@example.com",
+      "countryOfOrigin": "Ireland",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-11-11T09:28:44.109Z",
+      "salt": "aa7e60a2297384b7e014874956f0aa90",
+      "passwordHash": "ac59483c077c96115c9d6caac9e36b224176eee98540963de62f536b3969b47b"
+    },
+    {
+      "id": "usr_1cd7f1698df4",
+      "fullName": "Gate Checkin Tester",
+      "email": "checkin.tester.1794389365430@example.com",
+      "countryOfOrigin": "Ireland",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-11-11T09:29:25.434Z",
+      "salt": "9b67ebf17e0582f290a5543ca6ccb83e",
+      "passwordHash": "62873b9a63fb09660400d37ea7d4868f7503a0f52161a5b76fe546a5421fb439"
+    },
+    {
+      "id": "usr_fb78409858f4",
+      "fullName": "Gate Checkin Tester",
+      "email": "checkin.tester.1794389406682@example.com",
+      "countryOfOrigin": "Ireland",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-11-11T09:30:06.684Z",
+      "salt": "a94ce95d0a7cbd97c2fc930317a64193",
+      "passwordHash": "592d2a1c469dd6abb2a3fc86cca710838d3c09d9bc8d6ee8665b55036ad0bab6"
+    },
+    {
+      "id": "usr_77936e217d39",
+      "fullName": "Gate Checkin Tester",
+      "email": "checkin.tester.1794389443574@example.com",
+      "countryOfOrigin": "Ireland",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-11-11T09:30:43.578Z",
+      "salt": "63e7f154fd1d3083171af984a183332b",
+      "passwordHash": "26eb30663f5161afb1f74eab6af6063f506a10c0f61987d290c4308480c00572"
+    },
+    {
+      "id": "usr_7f45728071d2",
+      "fullName": "Gate Checkin Tester",
+      "email": "checkin.tester.1794389474837@example.com",
+      "countryOfOrigin": "Ireland",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-11-11T09:31:14.840Z",
+      "salt": "14b21c296278d1b86dc3487277c8585f",
+      "passwordHash": "da2fde8facfe27656c9136477776593cb8003acfb360953117397c282250f271"
+    },
+    {
+      "id": "usr_a123623e99c3",
+      "fullName": "Gate Checkin Tester",
+      "email": "checkin.tester.1794389509766@example.com",
+      "countryOfOrigin": "Ireland",
+      "profilePhoto": null,
+      "role": "MEMBER",
+      "accountStatus": "ACTIVE",
+      "createdAt": "2026-11-11T09:31:49.770Z",
+      "salt": "9fd1f57986689794edb9d75b9e7e1bf8",
+      "passwordHash": "93b63a2ca77e6c6f6e228cf34f22e6f416a597739e3139cb6c019bd2a7a5b7f8"
+    }
+  ],
+  "churchProfile": {
+    "id": "default",
+    "churchName": "Assembly of God Ireland Ministry - AOGIM Dublin",
+    "shortName": "AOGIM Dublin",
+    "logo": "",
+    "description": "Welcome to AOGIM Dublin! We are a Christ-centered, multicultural, and vibrant Pentecostal community serving families, students, and workers in Dublin, Ireland. Our mission is to declare the gospel of Jesus Christ, make disciples, and foster authentic Christian fellowship.",
+    "address": "Unit 12, Park West Enterprise Centre, Nangor Road",
+    "city": "Dublin 12",
+    "country": "Ireland",
+    "postalCode": "D12 X2P4",
+    "phone": "+353 (0) 1 456 7890",
+    "email": "contact@aogimdublin.org",
+    "website": "https://aogimdublin.org",
+    "socialLinks": {
+      "instagram": "https://instagram.com/aogimdublin",
+      "facebook": "https://facebook.com/aogimdublin",
+      "youtube": "https://youtube.com/@aogimdublin",
+      "whatsapp": "https://wa.me/35314567890"
+    },
+    "updatedAt": "2026-11-10T11:00:09.363Z"
+  },
+  "events": [
+    {
+      "id": "evt_1",
+      "title": "Ignite Dublin 2026: Youth & Young Adults Conference",
+      "banner": "/src/assets/images/youth_conference_banner_1794307702391.jpg",
+      "description": "Join hundreds of young people from across Ireland and Europe for Ignite Dublin 2026. Two unforgettable days with guest speakers, worship bands, breakout seminars, and divine empowerment.",
+      "category": "Youth",
+      "startDate": "2026-11-21",
+      "startTime": "18:30",
+      "endDate": "2026-11-22",
+      "endTime": "21:30",
+      "location": "AOGIM Main Sanctuary, Dublin",
+      "address": "Unit 12, Park West Enterprise Centre, Nangor Road, Dublin 12",
+      "isPaid": false,
+      "ticketPrice": null,
+      "currency": "EUR",
+      "maximumCapacity": 250,
+      "registrationDeadline": "2026-11-20T23:59",
+      "additionalInfo": "Free admission with seat reservation. Coffee and light refreshments served at reception. Parking available on site.",
+      "status": "Published",
+      "createdAt": "2026-11-01T10:00:00Z",
+      "createdBy": "admin@aogimdublin.org"
+    },
+    {
+      "id": "evt_2",
+      "title": "Couples Fellowship Gala & Seminar",
+      "banner": "/src/assets/images/couples_fellowship_banner_1794307703019.jpg",
+      "description": "An inspiring and romantic evening dedicated to building strong, biblical marriages. Includes dinner, marriage workshop with guest counselors, and live acoustic music.",
+      "category": "Couples",
+      "startDate": "2026-11-28",
+      "startTime": "19:00",
+      "endDate": "2026-11-28",
+      "endTime": "22:30",
+      "location": "Grand Ballroom, Dublin Centre",
+      "address": "Grand Canal Dock, Dublin 2",
+      "isPaid": true,
+      "ticketPrice": 25,
+      "currency": "EUR",
+      "maximumCapacity": 45,
+      "registrationDeadline": "2026-11-25T18:00",
+      "additionalInfo": "Ticket price covers a 3-course dinner per couple. Online booking & payment will launch in our next release; tickets can be booked with the welcoming team at church.",
+      "status": "Published",
+      "createdAt": "2026-11-02T12:00:00Z",
+      "createdBy": "admin@aogimdublin.org"
+    },
+    {
+      "id": "evt_3",
+      "title": "Thanksgiving & Praise Night: United in Dublin",
+      "banner": "/src/assets/images/aogim_worship_banner_1794307702148.jpg",
+      "description": "A citywide evening of gratitude, unity, and worship gathering all ministries, choir, and guest worship leaders to celebrate what God has done throughout Ireland this year.",
+      "category": "Special Events",
+      "startDate": "2026-12-05",
+      "startTime": "19:00",
+      "endDate": "2026-12-05",
+      "endTime": "21:30",
+      "location": "AOGIM Main Sanctuary, Dublin",
+      "address": "Unit 12, Park West Enterprise Centre, Nangor Road, Dublin 12",
+      "isPaid": false,
+      "ticketPrice": null,
+      "currency": "EUR",
+      "maximumCapacity": 300,
+      "registrationDeadline": "2026-12-04T23:59",
+      "additionalInfo": "Free event for the whole family. Simultaneous translation available in English and Portuguese.",
+      "status": "Published",
+      "createdAt": "2026-11-03T15:00:00Z",
+      "createdBy": "admin@aogimdublin.org"
+    }
+  ],
+  "eventRegistrations": [
+    {
+      "id": "reg_init_1",
+      "eventId": "evt_1",
+      "userId": "usr_member1",
+      "registrationNumber": "AOG-2026-8842",
+      "registrationStatus": "CONFIRMED",
+      "createdAt": "2026-11-05T14:20:00Z"
+    },
+    {
+      "id": "reg_51f0e0be3b19",
+      "eventId": "evt_3",
+      "userId": "usr_98b65a9d8537",
+      "registrationNumber": "AOG-2026-4897",
+      "registrationStatus": "CONFIRMED",
+      "createdAt": "2026-11-10T11:00:21.186Z"
+    },
+    {
+      "id": "reg_c21c42022048",
+      "eventId": "evt_2",
+      "userId": "usr_member1",
+      "registrationNumber": "AOG-RES-2026-96079",
+      "registrationStatus": "CONFIRMED",
+      "isPaidEvent": true,
+      "paymentAmount": 25,
+      "paymentCurrency": "EUR",
+      "paymentProof": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP...",
+      "paymentSubmittedAt": "2026-11-10T11:28:51.623Z",
+      "paymentStatus": "Confirmed",
+      "reservationExpiration": "2026-11-11T11:28:51.615Z",
+      "createdAt": "2026-11-10T11:28:51.615Z",
+      "reviewedBy": "Pastor & Admin AOGIM",
+      "reviewedAt": "2026-11-10T11:28:51.628Z",
+      "rejectionReason": null,
+      "ticket": {
+        "id": "tck_a3cb3338bbd1",
+        "registrationId": "reg_c21c42022048",
+        "eventId": "evt_2",
+        "userId": "usr_member1",
+        "ticketNumber": "AOG-TCK-2026-49886",
+        "qrCodeToken": "AOGIM:TCK:reg_c21c42022048:E2CD870B08E4",
+        "ticketStatus": "VALID",
+        "checkInStatus": "NOT_CHECKED_IN",
+        "createdAt": "2026-11-10T11:28:51.628Z",
+        "eventTitle": "Couples Fellowship Gala & Seminar",
+        "eventDate": "2026-11-28",
+        "eventTime": "19:00",
+        "userName": "Lucas Silva"
+      },
+      "checkInStatus": "CHECKED_IN",
+      "checkInAt": "2026-11-11T09:25:47.675Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "reg_261c2bf69980",
+      "eventId": "evt_1",
+      "userId": "usr_0434694df033",
+      "registrationNumber": "AOG-2026-8181",
+      "registrationStatus": "CONFIRMED",
+      "isPaidEvent": false,
+      "createdAt": "2026-11-11T09:28:32.712Z"
+    },
+    {
+      "id": "reg_8f9a951c37cc",
+      "eventId": "evt_1",
+      "userId": "usr_b9adc6b8ac5d",
+      "registrationNumber": "AOG-2026-7567",
+      "registrationStatus": "CONFIRMED",
+      "isPaidEvent": false,
+      "createdAt": "2026-11-11T09:28:44.122Z"
+    },
+    {
+      "id": "reg_6dc684ce7e51",
+      "eventId": "evt_1",
+      "userId": "usr_1cd7f1698df4",
+      "registrationNumber": "AOG-2026-4349",
+      "registrationStatus": "CONFIRMED",
+      "isPaidEvent": false,
+      "ticket": {
+        "id": "tck_67beabded05f",
+        "registrationId": "reg_6dc684ce7e51",
+        "eventId": "evt_1",
+        "userId": "usr_1cd7f1698df4",
+        "ticketNumber": "AOG-TCK-2026-73619",
+        "qrCodeToken": "AOGIM:TCK:FREE:7D6AC0390C3E",
+        "ticketStatus": "VALID",
+        "checkInStatus": "CHECKED_IN",
+        "createdAt": "2026-11-11T09:29:25.442Z",
+        "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+        "eventDate": "2026-11-21",
+        "eventTime": "18:30",
+        "userName": "Gate Checkin Tester",
+        "checkInAt": "2026-11-11T09:29:25.457Z",
+        "checkedInBy": "Pastor & Admin AOGIM"
+      },
+      "createdAt": "2026-11-11T09:29:25.442Z",
+      "checkInStatus": "CHECKED_IN",
+      "checkInAt": "2026-11-11T09:29:25.457Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "reg_450f599f0698",
+      "eventId": "evt_1",
+      "userId": "usr_fb78409858f4",
+      "registrationNumber": "AOG-2026-1629",
+      "registrationStatus": "CONFIRMED",
+      "isPaidEvent": false,
+      "ticket": {
+        "id": "tck_fa6d67ce4180",
+        "registrationId": "reg_450f599f0698",
+        "eventId": "evt_1",
+        "userId": "usr_fb78409858f4",
+        "ticketNumber": "AOG-TCK-2026-17829",
+        "qrCodeToken": "AOGIM:TCK:FREE:054C9A9F1ECA",
+        "ticketStatus": "VALID",
+        "checkInStatus": "CHECKED_IN",
+        "createdAt": "2026-11-11T09:30:06.690Z",
+        "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+        "eventDate": "2026-11-21",
+        "eventTime": "18:30",
+        "userName": "Gate Checkin Tester",
+        "checkInAt": "2026-11-11T09:30:06.705Z",
+        "checkedInBy": "Pastor & Admin AOGIM"
+      },
+      "createdAt": "2026-11-11T09:30:06.690Z",
+      "checkInStatus": "CHECKED_IN",
+      "checkInAt": "2026-11-11T09:30:06.705Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "reg_a8c7c490d84d",
+      "eventId": "evt_1",
+      "userId": "usr_77936e217d39",
+      "registrationNumber": "AOG-2026-9740",
+      "registrationStatus": "CONFIRMED",
+      "isPaidEvent": false,
+      "ticket": {
+        "id": "tck_20b5f258be62",
+        "registrationId": "reg_a8c7c490d84d",
+        "eventId": "evt_1",
+        "userId": "usr_77936e217d39",
+        "ticketNumber": "AOG-TCK-2026-10233",
+        "qrCodeToken": "AOGIM:TCK:FREE:BA60C0DE3108",
+        "ticketStatus": "VALID",
+        "checkInStatus": "CHECKED_IN",
+        "createdAt": "2026-11-11T09:30:43.584Z",
+        "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+        "eventDate": "2026-11-21",
+        "eventTime": "18:30",
+        "userName": "Gate Checkin Tester",
+        "checkInAt": "2026-11-11T09:30:43.601Z",
+        "checkedInBy": "Pastor & Admin AOGIM"
+      },
+      "createdAt": "2026-11-11T09:30:43.584Z",
+      "checkInStatus": "CHECKED_IN",
+      "checkInAt": "2026-11-11T09:30:43.601Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "reg_2ebf37696727",
+      "eventId": "evt_1",
+      "userId": "usr_7f45728071d2",
+      "registrationNumber": "AOG-2026-4005",
+      "registrationStatus": "CONFIRMED",
+      "isPaidEvent": false,
+      "ticket": {
+        "id": "tck_761b0c0734ae",
+        "registrationId": "reg_2ebf37696727",
+        "eventId": "evt_1",
+        "userId": "usr_7f45728071d2",
+        "ticketNumber": "AOG-TCK-2026-32111",
+        "qrCodeToken": "AOGIM:TCK:FREE:63B90437DF9F",
+        "ticketStatus": "VALID",
+        "checkInStatus": "CHECKED_IN",
+        "createdAt": "2026-11-11T09:31:14.849Z",
+        "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+        "eventDate": "2026-11-21",
+        "eventTime": "18:30",
+        "userName": "Gate Checkin Tester",
+        "checkInAt": "2026-11-11T09:31:14.866Z",
+        "checkedInBy": "Pastor & Admin AOGIM"
+      },
+      "createdAt": "2026-11-11T09:31:14.849Z",
+      "checkInStatus": "CHECKED_IN",
+      "checkInAt": "2026-11-11T09:31:14.866Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "reg_6f3547e39af6",
+      "eventId": "evt_1",
+      "userId": "usr_a123623e99c3",
+      "registrationNumber": "AOG-2026-7484",
+      "registrationStatus": "CONFIRMED",
+      "isPaidEvent": false,
+      "ticket": {
+        "id": "tck_ac17684bbe34",
+        "registrationId": "reg_6f3547e39af6",
+        "eventId": "evt_1",
+        "userId": "usr_a123623e99c3",
+        "ticketNumber": "AOG-TCK-2026-19490",
+        "qrCodeToken": "AOGIM:TCK:FREE:7B31197708A9",
+        "ticketStatus": "VALID",
+        "checkInStatus": "CHECKED_IN",
+        "createdAt": "2026-11-11T09:31:49.777Z",
+        "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+        "eventDate": "2026-11-21",
+        "eventTime": "18:30",
+        "userName": "Gate Checkin Tester",
+        "checkInAt": "2026-11-11T09:31:49.794Z",
+        "checkedInBy": "Pastor & Admin AOGIM"
+      },
+      "createdAt": "2026-11-11T09:31:49.777Z",
+      "checkInStatus": "CHECKED_IN",
+      "checkInAt": "2026-11-11T09:31:49.794Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    }
+  ],
+  "serviceSchedule": [
+    {
+      "id": "srv_1",
+      "serviceName": "Sunday Celebration & Family Worship (Culto da Família)",
+      "dayOfWeek": "Sunday",
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "mainLanguage": "Portuguese",
+      "hasSimultaneousTranslation": true,
+      "translationLanguages": [
+        "English",
+        "Spanish"
+      ],
+      "location": "Main Sanctuary & AOGIM Kids Hall",
+      "description": "Sunday morning worship, inspirational sermon, and specialized Sunday School classes for children and toddlers.",
+      "status": "ACTIVE",
+      "temporaryNotice": null
+    },
+    {
+      "id": "srv_2",
+      "serviceName": "Sunday International Evening Service",
+      "dayOfWeek": "Sunday",
+      "startTime": "18:30",
+      "endTime": "20:15",
+      "mainLanguage": "English",
+      "hasSimultaneousTranslation": true,
+      "translationLanguages": [
+        "Portuguese"
+      ],
+      "location": "Main Sanctuary",
+      "description": "Dynamic evening praise and preaching welcoming people of all nationalities living in Dublin.",
+      "status": "ACTIVE",
+      "temporaryNotice": null
+    },
+    {
+      "id": "srv_3",
+      "serviceName": "Midweek Bible Study & Prayer (Culto de Doutrina e Oração)",
+      "dayOfWeek": "Wednesday",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "mainLanguage": "Portuguese",
+      "hasSimultaneousTranslation": true,
+      "translationLanguages": [
+        "English"
+      ],
+      "location": "Main Sanctuary / Hybrid Stream",
+      "description": "In-depth systematic study of the Holy Scriptures, corporate intercessory prayer, and spiritual renewal.",
+      "status": "ACTIVE",
+      "temporaryNotice": null
+    },
+    {
+      "id": "srv_4",
+      "serviceName": "Youth Alive Fellowship (Jovens AOGIM)",
+      "dayOfWeek": "Saturday",
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "mainLanguage": "Bilingual (English / Portuguese)",
+      "hasSimultaneousTranslation": true,
+      "translationLanguages": [
+        "English",
+        "Portuguese"
+      ],
+      "location": "Youth Hall",
+      "description": "Vibrant youth praise, real conversations, fellowship, acoustic music, and social connection for teens and young adults.",
+      "status": "ACTIVE",
+      "temporaryNotice": null
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann_1",
+      "title": "Welcome to the AOGIM Dublin Official Mobile App!",
+      "description": "We are delighted to release our mobile-first application to help our church members, visitors, and families stay updated with church life, conferences, service times, and registrations.",
+      "image": "/src/assets/images/dublin_church_building_1794307703454.jpg",
+      "publicationDate": "2026-11-09",
+      "status": "PUBLISHED",
+      "createdBy": "admin@aogimdublin.org",
+      "category": "Important Notices",
+      "isHighlighted": true
+    },
+    {
+      "id": "ann_2",
+      "title": "Simultaneous Translation Available at Every Sunday Service",
+      "description": "Did you know our services are accessible to non-Portuguese and non-English speakers? Headsets with live translation channels are available at the Welcome Desk in the lobby before each service.",
+      "image": null,
+      "publicationDate": "2026-11-06",
+      "status": "PUBLISHED",
+      "createdBy": "admin@aogimdublin.org",
+      "category": "Church News",
+      "isHighlighted": false
+    }
+  ],
+  "tokens": {
+    "4d575eec9d3f1a90b87d154117611ae94cf38b019cd11e7c5e75006220c83b4e": {
+      "userId": "usr_98b65a9d8537",
+      "role": "MEMBER",
+      "expiresAt": 1794913221166
+    },
+    "4ed0e6f58be173ceccd4d9319331ed49cb845075323c5cc22542a2247aea3de5": {
+      "userId": "usr_98b65a9d8537",
+      "role": "MEMBER",
+      "expiresAt": 1794913221180
+    },
+    "ab39d100da10c22a5f6a18ca6b7b4739b3f10b1f1029b2ce0d58c73d50fcf7a6": {
+      "userId": "usr_admin",
+      "role": "ADMIN",
+      "expiresAt": 1794913221203
+    },
+    "6b18e21f77ca37c30acc43373e4f086e532a8ace89c03a510119b11e8a6aead7": {
+      "userId": "usr_admin",
+      "role": "ADMIN",
+      "expiresAt": 1794914864445
+    },
+    "f72c70ff089f52ea4fbf6524b8ad5b54635aab35bc1aecb015bf754bf856d71d": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794914864456
+    },
+    "9a1af667e0c4fc8f647e5d953eacf04ed84c3a28597dd742b1d9eb10e0b95d8f": {
+      "userId": "usr_admin",
+      "role": "ADMIN",
+      "expiresAt": 1794914882004
+    },
+    "a0d942aff59ecab837cd5321abf95f469560a9fed8e0219db9c66359c719c9f9": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794914882014
+    },
+    "adcdf368ec56411bdab5153e8325c5cb1c047d61fc6d32cbc2e406ac34fb5ed1": {
+      "userId": "usr_admin",
+      "role": "ADMIN",
+      "expiresAt": 1794914906014
+    },
+    "912026e94e7cd995782baa05551113116e457ff5b6b27be6dcf00dee3299d517": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794914906027
+    },
+    "5e420eacd3cd61fd4f0166c7ec2233bc6342cc7be3099438619b8121273f26a2": {
+      "userId": "usr_admin",
+      "role": "ADMIN",
+      "expiresAt": 1794914931568
+    },
+    "8e01ded502eb6e7ad1e9419b16f2c31c55a00123004c0947f1915994e796349a": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794914931579
+    },
+    "a1aedf46a50ccfbfbc6ad82405c4ad34bc0d9b87acf12afdadd12e3400e4f4fe": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794993770580
+    },
+    "f1c9106d402106ed28f357454a8542dec346500f6f0635903a7523587a024aac": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794993770596
+    },
+    "678e726c8a41c8c2bd2ea79d555e992119a9a67fe846cf1f4d005e2cdb3689a2": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794993947608
+    },
+    "3ffb4932969e122d5b34b4024c57802efeb2f7d20d4c674c9d5d65ddb6685f1b": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794993947623
+    },
+    "54c8b68af1b1471041a1edfa122dcf80eabd999aa6613995ad6425d74c49b8f3": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794993987414
+    },
+    "3f7013ec65706709b066534864d491dc90dddf2ce1f0c962e463dbbbb2f833af": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794993987429
+    },
+    "0c35359b6e74459318eb5af5e5fe08efd8ee2a0c8e69bdeeb9f3a1019f911b0f": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994005807
+    },
+    "5b98821514dacae255e29f32f150ee53aea09962ef06eb7a5cfb61685545d682": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994011206
+    },
+    "bcfa00995ed3d8c9d4124417754edee979a9058588120e459b1c6f3710121550": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994062349
+    },
+    "ed6d44d6afc36e1c76d4f2e617104b7d806fa1cc9efdac5f876bc72e169ac14e": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794994062364
+    },
+    "13658719ba14cdb055490586a900915713e7457671dae6a331027277c2fb468d": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994112659
+    },
+    "101bf5233f84351a7e339c19f07e00604f6b3a54a0250ccde849a0a50acb5bb9": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794994112674
+    },
+    "997904503a9cae1589cbc5743b56b44d2705e68141499e2818ef80a7ff529436": {
+      "userId": "usr_0434694df033",
+      "role": "MEMBER",
+      "expiresAt": 1794994112707
+    },
+    "5996a13205952c9a4a483e4704f2449641ebfd51be2bf9778dc8a7ded5817043": {
+      "userId": "usr_b9adc6b8ac5d",
+      "role": "MEMBER",
+      "expiresAt": 1794994124109
+    },
+    "77c899639c3a4e9d8e274a864d13aa51e683c6e691a88036eaaa99f64fba0e86": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994165373
+    },
+    "c2b19f2846a54bc793112a183149dedae4b26b1697099896fa86e035fb120954": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794994165389
+    },
+    "ffc08093ed05fa35203ad8bcd922fa885a626735435f893269b70ab3fa2d2636": {
+      "userId": "usr_1cd7f1698df4",
+      "role": "MEMBER",
+      "expiresAt": 1794994165435
+    },
+    "1c88ba65004fdb524ca7ea8d7efdc3d7ddba3d82f6ac937132d8b792c67ef936": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994206635
+    },
+    "2019d076cf8d4b46ba01347a73f2b6258e2f38afaff1ec0ee71023162ebf607c": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794994206651
+    },
+    "7f3e75826d3864e124128f2ae21818e87043e66701a1775ac44111bd8add1ec0": {
+      "userId": "usr_fb78409858f4",
+      "role": "MEMBER",
+      "expiresAt": 1794994206684
+    },
+    "67ebbd0c04d5cecfcc263e0b99a80be10b0773a48959a419daa6e5a7378d6808": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994243527
+    },
+    "98b73d4b3ad22aca653bae1656ceeabde56621ec63e6d3dfad6afef2dd858522": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794994243542
+    },
+    "be98c4296347020cc27ffefdc8b8f2b4ed3aed0cd6b976851cdacc7d10ef6999": {
+      "userId": "usr_77936e217d39",
+      "role": "MEMBER",
+      "expiresAt": 1794994243578
+    },
+    "c8ee6969a3f333abab25433f3d1a4ce5a7773a52675772ac21c99e75142a3b0e": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994274784
+    },
+    "55484226f417beb637978081c94acacab67387d3477251a005ae99fa36626a2f": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794994274799
+    },
+    "a834d34c8fe00cd02b7b6080b6555efe15f79be9c9cc12b2f405bd7401b28263": {
+      "userId": "usr_7f45728071d2",
+      "role": "MEMBER",
+      "expiresAt": 1794994274843
+    },
+    "9dfdf28f5124250045cb52f3984b778df5e78baeb931b4bdcf20452c345b2e96": {
+      "userId": "usr_admin",
+      "role": "SUPER_ADMIN",
+      "expiresAt": 1794994309713
+    },
+    "b5641136f146fded2a9ce8fa2633f4368a9d56836339ad243e2fb653d56193f8": {
+      "userId": "usr_member1",
+      "role": "MEMBER",
+      "expiresAt": 1794994309728
+    },
+    "8377762f07dadfd3ad62a8bbbb43aa015ba8acbe67b5386df67af8a8ddee74f1": {
+      "userId": "usr_a123623e99c3",
+      "role": "MEMBER",
+      "expiresAt": 1794994309771
+    }
+  },
+  "passwordResetTokens": {
+    "993671": {
+      "email": "maria.costa@example.com",
+      "expiresAt": 1794312021234
+    }
+  },
+  "bootstrapKey": "AOGIM2026ADMIN",
+  "bankingSettings": {
+    "id": "default",
+    "beneficiaryName": "Assembly of God Ireland Ministry",
+    "bankName": "Bank of Ireland College Green",
+    "iban": "IE29AIBK93115212345678",
+    "bicSwift": "AIBKIE2D",
+    "paymentReference": "AOGIM-DUBLIN",
+    "additionalInstructions": "Please include your Full Name and purpose (e.g. \"Tithe - [Name]\", \"Offering - [Name]\", or \"Event - [Ref]\") in the transfer description.",
+    "bankQrCodeImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+    "reservationExpiryHours": 24,
+    "updatedAt": "2026-11-10T11:28:51.586Z",
+    "updatedBy": "Pastor & Admin AOGIM"
+  },
+  "contributions": [
+    {
+      "id": "cnt_init_1",
+      "userId": "usr_member1",
+      "contributionType": "Tithe",
+      "amount": 150,
+      "currency": "EUR",
+      "transferDate": "2026-11-01",
+      "paymentReference": "Tithe - Lucas Silva",
+      "paymentProof": null,
+      "proofSubmittedAt": null,
+      "status": "Approved",
+      "reviewedBy": "Pastor & Admin AOGIM",
+      "reviewedAt": "2026-11-02T10:00:00Z",
+      "rejectionReason": null,
+      "createdAt": "2026-11-01T15:30:00Z"
+    },
+    {
+      "id": "cnt_init_2",
+      "userId": "usr_member1",
+      "contributionType": "Offering",
+      "amount": 50,
+      "currency": "EUR",
+      "transferDate": "2026-11-08",
+      "paymentReference": "Offering - Sunday Celebration",
+      "paymentProof": null,
+      "proofSubmittedAt": null,
+      "status": "Under Review",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "rejectionReason": null,
+      "createdAt": "2026-11-08T12:00:00Z"
+    },
+    {
+      "id": "cnt_f4072b460b5d",
+      "userId": "usr_member1",
+      "contributionType": "Tithe",
+      "amount": 150,
+      "currency": "EUR",
+      "transferDate": "2026-11-10",
+      "paymentReference": "LUCAS SILVA TITHE NOV",
+      "paymentProof": null,
+      "proofSubmittedAt": null,
+      "status": "Approved",
+      "reviewedBy": "Pastor & Admin AOGIM",
+      "reviewedAt": "2026-11-10T11:28:26.062Z",
+      "rejectionReason": null,
+      "createdAt": "2026-11-10T11:28:26.041Z"
+    },
+    {
+      "id": "cnt_5e138ca4b807",
+      "userId": "usr_member1",
+      "contributionType": "Offering",
+      "amount": 50,
+      "currency": "EUR",
+      "transferDate": "2026-11-10",
+      "paymentReference": "LUCAS SILVA MISSIONS OFFERING",
+      "paymentProof": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP...",
+      "proofSubmittedAt": "2026-11-10T11:28:26.046Z",
+      "status": "Under Review",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "rejectionReason": null,
+      "createdAt": "2026-11-10T11:28:26.046Z"
+    },
+    {
+      "id": "cnt_00bac6e944a3",
+      "userId": "usr_member1",
+      "contributionType": "Tithe",
+      "amount": 150,
+      "currency": "EUR",
+      "transferDate": "2026-11-10",
+      "paymentReference": "LUCAS SILVA TITHE NOV",
+      "paymentProof": null,
+      "proofSubmittedAt": null,
+      "status": "Approved",
+      "reviewedBy": "Pastor & Admin AOGIM",
+      "reviewedAt": "2026-11-10T11:28:51.605Z",
+      "rejectionReason": null,
+      "createdAt": "2026-11-10T11:28:51.590Z"
+    },
+    {
+      "id": "cnt_7a47a17bfe09",
+      "userId": "usr_member1",
+      "contributionType": "Offering",
+      "amount": 50,
+      "currency": "EUR",
+      "transferDate": "2026-11-10",
+      "paymentReference": "LUCAS SILVA MISSIONS OFFERING",
+      "paymentProof": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP...",
+      "proofSubmittedAt": "2026-11-10T11:28:51.595Z",
+      "status": "Rejected",
+      "reviewedBy": "Pastor & Admin AOGIM",
+      "reviewedAt": "2026-11-10T11:28:51.610Z",
+      "rejectionReason": "Reference not found in bank statement for 10-Nov. Please verify transaction date.",
+      "createdAt": "2026-11-10T11:28:51.595Z"
+    }
+  ],
+  "eventTickets": [
+    {
+      "id": "tck_a3cb3338bbd1",
+      "registrationId": "reg_c21c42022048",
+      "eventId": "evt_2",
+      "userId": "usr_member1",
+      "ticketNumber": "AOG-TCK-2026-49886",
+      "qrCodeToken": "AOGIM:TCK:reg_c21c42022048:E2CD870B08E4",
+      "ticketStatus": "VALID",
+      "checkInStatus": "CHECKED_IN",
+      "createdAt": "2026-11-10T11:28:51.628Z",
+      "eventTitle": "Couples Fellowship Gala & Seminar",
+      "eventDate": "2026-11-28",
+      "eventTime": "19:00",
+      "userName": "Lucas Silva",
+      "checkInAt": "2026-11-11T09:25:47.675Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "tck_67beabded05f",
+      "registrationId": "reg_6dc684ce7e51",
+      "eventId": "evt_1",
+      "userId": "usr_1cd7f1698df4",
+      "ticketNumber": "AOG-TCK-2026-73619",
+      "qrCodeToken": "AOGIM:TCK:FREE:7D6AC0390C3E",
+      "ticketStatus": "VALID",
+      "checkInStatus": "CHECKED_IN",
+      "createdAt": "2026-11-11T09:29:25.442Z",
+      "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+      "eventDate": "2026-11-21",
+      "eventTime": "18:30",
+      "userName": "Gate Checkin Tester",
+      "checkInAt": "2026-11-11T09:29:25.457Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "tck_fa6d67ce4180",
+      "registrationId": "reg_450f599f0698",
+      "eventId": "evt_1",
+      "userId": "usr_fb78409858f4",
+      "ticketNumber": "AOG-TCK-2026-17829",
+      "qrCodeToken": "AOGIM:TCK:FREE:054C9A9F1ECA",
+      "ticketStatus": "VALID",
+      "checkInStatus": "CHECKED_IN",
+      "createdAt": "2026-11-11T09:30:06.690Z",
+      "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+      "eventDate": "2026-11-21",
+      "eventTime": "18:30",
+      "userName": "Gate Checkin Tester",
+      "checkInAt": "2026-11-11T09:30:06.705Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "tck_20b5f258be62",
+      "registrationId": "reg_a8c7c490d84d",
+      "eventId": "evt_1",
+      "userId": "usr_77936e217d39",
+      "ticketNumber": "AOG-TCK-2026-10233",
+      "qrCodeToken": "AOGIM:TCK:FREE:BA60C0DE3108",
+      "ticketStatus": "VALID",
+      "checkInStatus": "CHECKED_IN",
+      "createdAt": "2026-11-11T09:30:43.584Z",
+      "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+      "eventDate": "2026-11-21",
+      "eventTime": "18:30",
+      "userName": "Gate Checkin Tester",
+      "checkInAt": "2026-11-11T09:30:43.601Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "tck_761b0c0734ae",
+      "registrationId": "reg_2ebf37696727",
+      "eventId": "evt_1",
+      "userId": "usr_7f45728071d2",
+      "ticketNumber": "AOG-TCK-2026-32111",
+      "qrCodeToken": "AOGIM:TCK:FREE:63B90437DF9F",
+      "ticketStatus": "VALID",
+      "checkInStatus": "CHECKED_IN",
+      "createdAt": "2026-11-11T09:31:14.849Z",
+      "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+      "eventDate": "2026-11-21",
+      "eventTime": "18:30",
+      "userName": "Gate Checkin Tester",
+      "checkInAt": "2026-11-11T09:31:14.866Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    },
+    {
+      "id": "tck_ac17684bbe34",
+      "registrationId": "reg_6f3547e39af6",
+      "eventId": "evt_1",
+      "userId": "usr_a123623e99c3",
+      "ticketNumber": "AOG-TCK-2026-19490",
+      "qrCodeToken": "AOGIM:TCK:FREE:7B31197708A9",
+      "ticketStatus": "VALID",
+      "checkInStatus": "CHECKED_IN",
+      "createdAt": "2026-11-11T09:31:49.777Z",
+      "eventTitle": "Ignite Dublin 2026: Youth & Young Adults Conference",
+      "eventDate": "2026-11-21",
+      "eventTime": "18:30",
+      "userName": "Gate Checkin Tester",
+      "checkInAt": "2026-11-11T09:31:49.794Z",
+      "checkedInBy": "Pastor & Admin AOGIM"
+    }
+  ],
+  "eventCheckins": [
+    {
+      "id": "chk_b011d277128c",
+      "eventId": "evt_2",
+      "registrationId": "reg_c21c42022048",
+      "ticketId": "tck_a3cb3338bbd1",
+      "ticketNumber": "AOG-TCK-2026-49886",
+      "attendeeName": "Lucas Silva",
+      "attendeeEmail": "lucas.silva@example.com",
+      "checkedInBy": "usr_admin",
+      "checkedInByName": "Pastor & Admin AOGIM",
+      "checkedInAt": "2026-11-11T09:25:47.675Z",
+      "status": "CHECKED_IN"
+    },
+    {
+      "id": "chk_5b9941280d2f",
+      "eventId": "evt_1",
+      "registrationId": "reg_6dc684ce7e51",
+      "ticketId": "tck_67beabded05f",
+      "ticketNumber": "AOG-TCK-2026-73619",
+      "attendeeName": "Gate Checkin Tester",
+      "attendeeEmail": "checkin.tester.1794389365430@example.com",
+      "checkedInBy": "usr_admin",
+      "checkedInByName": "Pastor & Admin AOGIM",
+      "checkedInAt": "2026-11-11T09:29:25.457Z",
+      "status": "CHECKED_IN"
+    },
+    {
+      "id": "chk_ec8882706d35",
+      "eventId": "evt_1",
+      "registrationId": "reg_450f599f0698",
+      "ticketId": "tck_fa6d67ce4180",
+      "ticketNumber": "AOG-TCK-2026-17829",
+      "attendeeName": "Gate Checkin Tester",
+      "attendeeEmail": "checkin.tester.1794389406682@example.com",
+      "checkedInBy": "usr_admin",
+      "checkedInByName": "Pastor & Admin AOGIM",
+      "checkedInAt": "2026-11-11T09:30:06.705Z",
+      "status": "CHECKED_IN"
+    },
+    {
+      "id": "chk_1c4b8118a97c",
+      "eventId": "evt_1",
+      "registrationId": "reg_a8c7c490d84d",
+      "ticketId": "tck_20b5f258be62",
+      "ticketNumber": "AOG-TCK-2026-10233",
+      "attendeeName": "Gate Checkin Tester",
+      "attendeeEmail": "checkin.tester.1794389443574@example.com",
+      "checkedInBy": "usr_admin",
+      "checkedInByName": "Pastor & Admin AOGIM",
+      "checkedInAt": "2026-11-11T09:30:43.601Z",
+      "status": "CHECKED_IN"
+    },
+    {
+      "id": "chk_58e6b1b8f6d8",
+      "eventId": "evt_1",
+      "registrationId": "reg_2ebf37696727",
+      "ticketId": "tck_761b0c0734ae",
+      "ticketNumber": "AOG-TCK-2026-32111",
+      "attendeeName": "Gate Checkin Tester",
+      "attendeeEmail": "checkin.tester.1794389474837@example.com",
+      "checkedInBy": "usr_admin",
+      "checkedInByName": "Pastor & Admin AOGIM",
+      "checkedInAt": "2026-11-11T09:31:14.866Z",
+      "status": "CHECKED_IN"
+    },
+    {
+      "id": "chk_afa9f9007be3",
+      "eventId": "evt_1",
+      "registrationId": "reg_6f3547e39af6",
+      "ticketId": "tck_ac17684bbe34",
+      "ticketNumber": "AOG-TCK-2026-19490",
+      "attendeeName": "Gate Checkin Tester",
+      "attendeeEmail": "checkin.tester.1794389509766@example.com",
+      "checkedInBy": "usr_admin",
+      "checkedInByName": "Pastor & Admin AOGIM",
+      "checkedInAt": "2026-11-11T09:31:49.794Z",
+      "status": "CHECKED_IN"
+    }
+  ],
+  "notifications": [
+    {
+      "title": "New Event Registration",
+      "message": "A member registered for \"Ignite Dublin 2026: Youth & Young Adults Conference\".",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_120fb0d168e0",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:31:49.777Z"
+    },
+    {
+      "userId": "usr_a123623e99c3",
+      "title": "Registration Confirmed",
+      "message": "Your spot for Ignite Dublin 2026: Youth & Young Adults Conference has been confirmed!",
+      "type": "REGISTRATION_CONFIRMATION",
+      "targetAudience": "INDIVIDUAL",
+      "link": "/events",
+      "id": "notif_03095d57ee87",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:31:49.777Z"
+    },
+    {
+      "title": "New Member Registered",
+      "message": "Gate Checkin Tester (Ireland) created a new account.",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_f6ae4c231d4a",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:31:49.770Z"
+    },
+    {
+      "title": "New Event Registration",
+      "message": "A member registered for \"Ignite Dublin 2026: Youth & Young Adults Conference\".",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_7b7bdab0270e",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:31:14.850Z"
+    },
+    {
+      "userId": "usr_7f45728071d2",
+      "title": "Registration Confirmed",
+      "message": "Your spot for Ignite Dublin 2026: Youth & Young Adults Conference has been confirmed!",
+      "type": "REGISTRATION_CONFIRMATION",
+      "targetAudience": "INDIVIDUAL",
+      "link": "/events",
+      "id": "notif_a4b730f96d8b",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:31:14.850Z"
+    },
+    {
+      "title": "New Member Registered",
+      "message": "Gate Checkin Tester (Ireland) created a new account.",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_cb949f237749",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:31:14.843Z"
+    },
+    {
+      "title": "New Event Registration",
+      "message": "A member registered for \"Ignite Dublin 2026: Youth & Young Adults Conference\".",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_89d669c294e5",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:30:43.585Z"
+    },
+    {
+      "userId": "usr_77936e217d39",
+      "title": "Registration Confirmed",
+      "message": "Your spot for Ignite Dublin 2026: Youth & Young Adults Conference has been confirmed!",
+      "type": "REGISTRATION_CONFIRMATION",
+      "targetAudience": "INDIVIDUAL",
+      "link": "/events",
+      "id": "notif_deecd9041f7c",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:30:43.584Z"
+    },
+    {
+      "title": "New Member Registered",
+      "message": "Gate Checkin Tester (Ireland) created a new account.",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_ed1d3cfb4aa0",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:30:43.578Z"
+    },
+    {
+      "title": "New Event Registration",
+      "message": "A member registered for \"Ignite Dublin 2026: Youth & Young Adults Conference\".",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_66c29fc1f756",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:30:06.691Z"
+    },
+    {
+      "userId": "usr_fb78409858f4",
+      "title": "Registration Confirmed",
+      "message": "Your spot for Ignite Dublin 2026: Youth & Young Adults Conference has been confirmed!",
+      "type": "REGISTRATION_CONFIRMATION",
+      "targetAudience": "INDIVIDUAL",
+      "link": "/events",
+      "id": "notif_fdf3c251047d",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:30:06.690Z"
+    },
+    {
+      "title": "New Member Registered",
+      "message": "Gate Checkin Tester (Ireland) created a new account.",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_a1817e63cca0",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:30:06.684Z"
+    },
+    {
+      "title": "New Event Registration",
+      "message": "A member registered for \"Ignite Dublin 2026: Youth & Young Adults Conference\".",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_6883175c5ad2",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:29:25.442Z"
+    },
+    {
+      "userId": "usr_1cd7f1698df4",
+      "title": "Registration Confirmed",
+      "message": "Your spot for Ignite Dublin 2026: Youth & Young Adults Conference has been confirmed!",
+      "type": "REGISTRATION_CONFIRMATION",
+      "targetAudience": "INDIVIDUAL",
+      "link": "/events",
+      "id": "notif_5431edb3a840",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:29:25.442Z"
+    },
+    {
+      "title": "New Member Registered",
+      "message": "Gate Checkin Tester (Ireland) created a new account.",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_0a70ef8ba498",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:29:25.435Z"
+    },
+    {
+      "title": "New Event Registration",
+      "message": "A member registered for \"Ignite Dublin 2026: Youth & Young Adults Conference\".",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_ebf835eab98e",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:28:44.122Z"
+    },
+    {
+      "userId": "usr_b9adc6b8ac5d",
+      "title": "Registration Confirmed",
+      "message": "Your spot for Ignite Dublin 2026: Youth & Young Adults Conference has been confirmed!",
+      "type": "REGISTRATION_CONFIRMATION",
+      "targetAudience": "INDIVIDUAL",
+      "link": "/events",
+      "id": "notif_56f33849220e",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:28:44.122Z"
+    },
+    {
+      "title": "New Member Registered",
+      "message": "Tester (Ireland) created a new account.",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_ad6076f5f9d6",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:28:44.109Z"
+    },
+    {
+      "title": "New Event Registration",
+      "message": "A member registered for \"Ignite Dublin 2026: Youth & Young Adults Conference\".",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_a3cfad65ff86",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:28:32.713Z"
+    },
+    {
+      "userId": "usr_0434694df033",
+      "title": "Registration Confirmed",
+      "message": "Your spot for Ignite Dublin 2026: Youth & Young Adults Conference has been confirmed!",
+      "type": "REGISTRATION_CONFIRMATION",
+      "targetAudience": "INDIVIDUAL",
+      "link": "/events",
+      "id": "notif_a41d359b52b6",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:28:32.713Z"
+    },
+    {
+      "title": "New Member Registered",
+      "message": "Gate Checkin Tester (Ireland) created a new account.",
+      "type": "ADMIN_ALERT",
+      "targetAudience": "ALL_ADMINS",
+      "link": "/admin",
+      "id": "notif_65490cd18949",
+      "readStatus": false,
+      "createdAt": "2026-11-11T09:28:32.707Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "USER_ROLE_CHANGE",
+      "entityType": "USER_ROLE",
+      "entityId": "usr_member1",
+      "details": "Changed role of Lucas Silva (lucas.silva@example.com) from EVENT_MANAGER to MEMBER.",
+      "previousValue": "EVENT_MANAGER",
+      "newValue": "MEMBER",
+      "id": "log_d1c1fbf6f409",
+      "createdAt": "2026-11-11T09:31:49.864Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "USER_ROLE_CHANGE",
+      "entityType": "USER_ROLE",
+      "entityId": "usr_member1",
+      "details": "Changed role of Lucas Silva (lucas.silva@example.com) from MEMBER to EVENT_MANAGER.",
+      "previousValue": "MEMBER",
+      "newValue": "EVENT_MANAGER",
+      "id": "log_a83817b2ee8e",
+      "createdAt": "2026-11-11T09:31:49.856Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "CHECKIN_RECORD",
+      "entityType": "CHECKIN",
+      "entityId": "chk_afa9f9007be3",
+      "details": "Admitted Gate Checkin Tester (Ticket: AOG-TCK-2026-19490) for event 'Ignite Dublin 2026: Youth & Young Adults Conference'.",
+      "id": "log_2e0e77a34725",
+      "createdAt": "2026-11-11T09:31:49.794Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "USER_ROLE_CHANGE",
+      "entityType": "USER_ROLE",
+      "entityId": "usr_member1",
+      "details": "Changed role of Lucas Silva (lucas.silva@example.com) from EVENT_MANAGER to MEMBER.",
+      "previousValue": "EVENT_MANAGER",
+      "newValue": "MEMBER",
+      "id": "log_8327f3f8dbfe",
+      "createdAt": "2026-11-11T09:31:14.925Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "USER_ROLE_CHANGE",
+      "entityType": "USER_ROLE",
+      "entityId": "usr_member1",
+      "details": "Changed role of Lucas Silva (lucas.silva@example.com) from MEMBER to EVENT_MANAGER.",
+      "previousValue": "MEMBER",
+      "newValue": "EVENT_MANAGER",
+      "id": "log_a0b97db78596",
+      "createdAt": "2026-11-11T09:31:14.919Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "CHECKIN_RECORD",
+      "entityType": "CHECKIN",
+      "entityId": "chk_58e6b1b8f6d8",
+      "details": "Admitted Gate Checkin Tester (Ticket: AOG-TCK-2026-32111) for event 'Ignite Dublin 2026: Youth & Young Adults Conference'.",
+      "id": "log_256cc93ddb38",
+      "createdAt": "2026-11-11T09:31:14.866Z"
+    },
+    {
+      "0": "u",
+      "1": "s",
+      "2": "r",
+      "3": "_",
+      "4": "a",
+      "5": "d",
+      "6": "m",
+      "7": "i",
+      "8": "n",
+      "id": "log_75f1a58d0710",
+      "createdAt": "2026-11-11T09:30:43.655Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "CHECKIN_RECORD",
+      "entityType": "CHECKIN",
+      "entityId": "chk_1c4b8118a97c",
+      "details": "Admitted Gate Checkin Tester (Ticket: AOG-TCK-2026-10233) for event 'Ignite Dublin 2026: Youth & Young Adults Conference'.",
+      "id": "log_0eb0cbeda38d",
+      "createdAt": "2026-11-11T09:30:43.601Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "CHECKIN_RECORD",
+      "entityType": "CHECKIN",
+      "entityId": "chk_ec8882706d35",
+      "details": "Admitted Gate Checkin Tester (Ticket: AOG-TCK-2026-17829) for event 'Ignite Dublin 2026: Youth & Young Adults Conference'.",
+      "id": "log_513836a1c5bd",
+      "createdAt": "2026-11-11T09:30:06.705Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "CHECKIN_RECORD",
+      "entityType": "CHECKIN",
+      "entityId": "chk_5b9941280d2f",
+      "details": "Admitted Gate Checkin Tester (Ticket: AOG-TCK-2026-73619) for event 'Ignite Dublin 2026: Youth & Young Adults Conference'.",
+      "id": "log_a7dfd789bb7c",
+      "createdAt": "2026-11-11T09:29:25.457Z"
+    },
+    {
+      "userId": "usr_admin",
+      "userName": "Pastor & Admin AOGIM",
+      "userRole": "SUPER_ADMIN",
+      "action": "CHECKIN_RECORD",
+      "entityType": "CHECKIN",
+      "entityId": "chk_b011d277128c",
+      "details": "Admitted Lucas Silva (Ticket: AOG-TCK-2026-49886) for event 'Couples Fellowship Gala & Seminar'.",
+      "id": "log_95a8c7d491d6",
+      "createdAt": "2026-11-11T09:25:47.675Z"
+    }
+  ],
+  "notificationPreferences": [],
+  "eventReminderSettings": {
+    "reminder24hEnabled": true,
+    "reminder2hEnabled": true,
+    "send24hReminder": true,
+    "send2hReminder": true
+  }
+}
